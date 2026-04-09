@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679269700660",
+    "project_id": "fir-authentication-73e9f",
+    "storage_bucket": "fir-authentication-73e9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679269700660:android:4e4ac72d457a64fdfe6661",
+        "android_client_info": {
+          "package_name": "com.fitio.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADCfXkqCuXp9hqlfefIZClSgOzWD2MPn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
